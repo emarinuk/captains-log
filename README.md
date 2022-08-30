@@ -9,3 +9,7 @@ I started the course on September 25th, and I plan to finish it by October 7th.
 ### Lesson 144 Exercise
 Had to rethink twice the use of reverse() and extend() as they act upon the original object and return None. Other than that it was a good refresher of these four odd functions: map(), filter(), zip(), and return()
 I realised that I made an error of judgement using reverse() as in real life the list may have not been "just" reversed but unsorted.
+
+### Lesson 146 Exercise
+Fascinating exercise which I could have gotten at first I had paid attention to the explanation of the exercise. I missed the way of sorting it (second element) because I was doing the first part of the exercise.
+
