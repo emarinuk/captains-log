@@ -35,3 +35,7 @@ Took a while to figure out how to find the parameter, but once I did the solutio
 #### Lesson 166 Fibonacci Exercise
 Horribly wrong. Just because I did not think enough and went for the usual recursive solution and tried to apply generators into that. It did not go well...
 
+### August 31st, 2022
+
+#### Lesson 175 Guessing game exercise
+Took me a while to get started, but I did pretty easily, with the dynamic prompt by default and an extra attempt counter.
