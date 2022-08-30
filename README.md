@@ -30,4 +30,8 @@ High Order Function:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return func()<br />
 
 ### Lesson 156 Exercise
-Took a while to figure out how to find the parameter, but once I did the solution was spot on 
+Took a while to figure out how to find the parameter, but once I did the solution was spot on
+
+### Lesson 166 Fibonacci Exercise
+Horribly wrong. Just because I did not think enough and went for the usual recursive solution and tried to apply generators into that. It did not go well...
+
