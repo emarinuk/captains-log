@@ -18,3 +18,16 @@ Comprehensions are really powerful!
 
 ### Lesson 149
 I got this right at first :) Good thinking of the use of set. I think my solution is a bit cleaner than Andrei's.
+
+High Order Function:
+ - either a function that accepts another function<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;def greet(func):<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;func()<br />
+- or a function that returns other function<br />
+&nbsp;&nbsp;&nbsp;&nbsp;def greet2(): <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;def func():<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pass<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return func()<br />
+
+### Lesson 156 Exercise
+Took a while to figure out how to find the parameter, but once I did the solution was spot on 
