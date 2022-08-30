@@ -40,3 +40,5 @@ def accumulator(acc, item):
 
 my_numbers.extend(scores)
 print(reduce(accumulator, my_numbers, 0))
+
+

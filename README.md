@@ -13,3 +13,8 @@ I realised that I made an error of judgement using reverse() as in real life the
 ### Lesson 146 Exercise
 Fascinating exercise which I could have gotten at first I had paid attention to the explanation of the exercise. I missed the way of sorting it (second element) because I was doing the first part of the exercise.
 
+### Lesson 148
+Comprehensions are really powerful!
+
+### Lesson 149
+I got this right at first :) Good thinking of the use of set. I think my solution is a bit cleaner than Andrei's.
