@@ -45,7 +45,12 @@ I have decided to jump on Section 19 Web Development with Python to start making
 ### September 2nd, 2022
 
 #### Lesson 188 Translator
-Veyr nice exercise, with lots of room for improvement (the problem) which I will attempt later today.  
+Very nice exercise, with lots of room for improvement (the problem) which I will attempt later today. I have attemped to solve the following exercise, based on the original one:
+1.- ask the user for the name of the source file (ENTER will just read from console)
+2.- ask the user for the name of the final file (ENTER will just print out in console)
+3.- ask the user for input language (ENTER will default to English)
+4.- ask the user for out language (ENTER will default to whatever tickles your fancy)
+5.- if the input is manual, END will stop the program.
+I also thought of limiting the number of languages (you can see the prompts) bau can't be arsed at the moment.
 
-I have decided to jump on Section 19 Web Development with Python to start making and advance in my web / app.
 
