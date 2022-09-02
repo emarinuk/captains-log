@@ -39,3 +39,13 @@ Horribly wrong. Just because I did not think enough and went for the usual recur
 
 #### Lesson 175 Guessing game exercise
 Took me a while to get started, but I did pretty easily, with the dynamic prompt by default and an extra attempt counter.
+
+I have decided to jump on Section 19 Web Development with Python to start making and advance in my web / app.
+
+### September 2nd, 2022
+
+#### Lesson 188 Translator
+Veyr nice exercise, with lots of room for improvement (the problem) which I will attempt later today.  
+
+I have decided to jump on Section 19 Web Development with Python to start making and advance in my web / app.
+
