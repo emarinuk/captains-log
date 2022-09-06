@@ -15,6 +15,13 @@ def replace_name(name):
     return str(my_new_name)
 
 
+def convert(my_images):
+    image = Image.open(folder_path + "\\" + my_images)
+    new_name = replace_name(images)
+    image.save(folder_path + "\\" + new_name, "png")
+    print(f"{images} converted to {new_name}.")
+
+
 for images in os.listdir(folder_path):
     if images.endswith(".jpg") or images.endswith(".jpeg"):
         image_count += 1
@@ -33,10 +40,7 @@ while not exit_loop:
                         print(f"{images} not converted.")
                         break
                     elif consent == "yes":
-                        image = Image.open(folder_path + "\\" + images)
-                        new_name = replace_name(images)
-                        image.save(folder_path + "\\" + new_name, "png")
-                        print(f"{images} converted to {new_name}.")
+                        convert(images)
                         break
                     else:
                         pass
@@ -45,9 +49,7 @@ while not exit_loop:
     elif proceed == "auto":
         for images in os.listdir(folder_path):
             if images.endswith(".jpg") or images.endswith(".jpeg"):
-                image = Image.open(folder_path + "\\" + images)
-                new_name = replace_name(images)
-                image.save(folder_path + "\\" + new_name, "png")
+                convert(images)
         exit_loop = True
     elif proceed == "no":
         exit_loop = True
