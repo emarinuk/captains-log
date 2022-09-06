@@ -53,4 +53,9 @@ Very nice exercise, with lots of room for improvement (the problem) which I will
 5.- if the input is manual, END will stop the program.
 I also thought of limiting the number of languages (you can see the prompts) bau can't be arsed at the moment.
 
+### September 6th, 2022
+
+
+#### Lesson 212 JPG to PNG Converter
+Back after a while. I have done the exercise (hopefully) adding some nice features (I have not yet watched the solution). 
 
