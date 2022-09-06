@@ -58,4 +58,6 @@ I also thought of limiting the number of languages (you can see the prompts) bau
 
 #### Lesson 212 JPG to PNG Converter
 Back after a while. I have done the exercise (hopefully) adding some nice features (I have not yet watched the solution). 
-
+I have also developed a small tiny script to compress JPEG images recursively. This comes from the need to reduce the size of a Wordpress repository. I can now reduce the quality of the jpeg images and upload them in bulk. The next steps for this tool are:
+ - comment the code
+ - add more parameters, maybe and more options to work with (reduce size, display weight, ) 
