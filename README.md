@@ -1,5 +1,9 @@
 # Captains log
 
+### July 1st, 2026
+Cuánto tiempo ha pasado y cuántas cosas han ocurrido. Acabo de terminar el sitio web de mi primer cliente. Ójala vengan muchos más y muy pronto. 
+Sitio web con un WP muy básico, casi todo en codigo por la dificultad de diseño. 
+
 ### August 30th, 2022
 I am starting  this log as a way of tracking my progress in the learning of Python.
 My goal is to work on it every day, even a bit, and commit code daily.
